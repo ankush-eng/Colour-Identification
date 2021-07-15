@@ -1,1 +1,1 @@
-# Colour-Identification
+# COLOR-IDENTIFICATION-IN-IMAGES
